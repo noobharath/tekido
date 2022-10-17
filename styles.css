@@ -13,7 +13,14 @@ body {
 html {
   background-color: #ffffff;
 }
-
+a{
+  list-style: none;
+  color: black;
+}
+a:hover{
+  text-decoration: none;
+  color: black;
+}
 :root {
   --color: #3dffff;
   --primary: #555bff;
